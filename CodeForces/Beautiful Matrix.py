@@ -8,5 +8,3 @@ for i in range(n):
             res = abs(i - 2) + abs(j - 2)
 
 print(res)
-
-
